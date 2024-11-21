@@ -8,6 +8,10 @@ This project focuses on classifying breast tumors as either benign or malignant 
 - Model tuning using GridSearchCV to achieve optimal results.
 - Visualizations, including:
   - Confusion Matrix
+  
+    ![](https://github.com/RaniaBadawi/Breast-Cancer-Classification-/blob/main/Breast%20Cancer%20classification%20plots/SVM%20ConfusionMatrix.png)
+
+    
   - Additional performance plots.
 
 # Key Results
