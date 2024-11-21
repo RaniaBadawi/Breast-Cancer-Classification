@@ -1,4 +1,4 @@
-# Breast-Cancer-Classification-
+# Breast-Cancer-Classification
 # Overview
 This project focuses on classifying breast tumors as either benign or malignant using Support Vector Machines (SVM). By leveraging data and visualization techniques, the model delivers high accuracy in predicting tumor types, contributing to early and accurate breast cancer diagnosis.
 
